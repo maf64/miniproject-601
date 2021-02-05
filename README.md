@@ -6,3 +6,5 @@
 * [Git Commit](./commit.md)
 * [Git Merge](./merge.md)
 * [Git Checkout](./checkout.md)
+* [Git Push](./push.md)
+* [Git Pull](./pull.md)
