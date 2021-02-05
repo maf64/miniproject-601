@@ -4,3 +4,5 @@
 * [Git Fork](./fork.md)
 * [Git Branch](./branch.md)
 * [Git Commit](./commit.md)
+* [Git Merge](./merge.md)
+
