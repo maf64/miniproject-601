@@ -9,3 +9,4 @@
 * [Git Push](./push.md)
 * [Git Pull](./pull.md)
 * [Git Remote](./remote.md)
+* [Git Status](./status.md)
