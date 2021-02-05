@@ -5,4 +5,4 @@
 * [Git Branch](./branch.md)
 * [Git Commit](./commit.md)
 * [Git Merge](./merge.md)
-
+* [Git Checkout](./checkout.md)
