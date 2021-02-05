@@ -11,3 +11,4 @@
 * [Git Remote](./remote.md)
 * [Git Status](./status.md)
 * [Git Master Branch](./master.md)
+* [Git Master Branch](./researchSources.md)
