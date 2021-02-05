@@ -12,11 +12,7 @@
 * [Git Remote](./remote.md)
 * [Git Status](./status.md)
 * [Git Master Branch](./master.md)
-<<<<<<< HEAD
 * [Git Research Sources](./researchSources.md)
 * [Git Prouctivity Competition](./productivityCompetition.md)
-
-=======
 * [Productivity and Competition](./productivityCompetition.md)
 * [Git Researh Sources](./researchSources.md)
->>>>>>> c4dcd798f162a0d8cfa8c7ccc9974d70fa317bf1
