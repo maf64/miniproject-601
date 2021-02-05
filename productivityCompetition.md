@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Background
 The web development techniques we utilize in this course are found as industry best practices for ensuring maximum productivity and creating competition in the private sector. The use of *Git*, *Docker*, *Automated Testing* and *Continuous Integration* gives organizations the opportunity to update their content quicker and more cost-effectively.
 
@@ -12,8 +11,8 @@ Continuous Integration
 With organizations hiring any number of web developers to collaborate on a project, the use of **Continious Integration** allows the developers to automate updates back to the repository, which saves time on sorting through various updates.
 
 Automated Testing
-Another method of redistributing time during web development is through **Automated Testing**. While this method is not the only way for developers to test their applications, this is a convenient strategy for finding the "bugs" in a software application, while developers spend more time addressing and fixing the problems.
-=======
+Another method of redistributing time during web development is through **Automated** **Testing**. While this method is not the only way for developers to test their applications, this is a convenient strategy for finding the "bugs" in a software application, while developers spend more time addressing and fixing the problems.
+
 # **Background**
 <p>The web development techniques we utilize in this course are found as industry best practices for ensuring maximum productivity and creating competition in the private sector. 
 The use of <em>Git, Docker, Automated Testing</em> and <em>Continuous Integration</em> gives organizations the opportunity to update their content quicker and more cost-effectively.</p>
@@ -32,4 +31,4 @@ independence to complete intricate coding tasks in limited time.</p>
 ## Automated Testing
 <p>Another method of redistributing time during web development is through <strong>Automated Testing.</strong> While this method is not the only way for developers to test their applications,
 this is a convenient strategy for finding the "bugs" in a software application, while developers spend more time addressing and fixing the problems.
->>>>>>> c4dcd798f162a0d8cfa8c7ccc9974d70fa317bf1
+
