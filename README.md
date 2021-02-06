@@ -14,6 +14,5 @@
 * [Git Status](./status.md)
 * [Git Master Branch](./master.md)
 * [Git Research Sources](./researchSources.md)
-* [Git Prouctivity Competition](./productivityCompetition.md)
-* [Productivity and Competition](./productivityCompetition.md)
+* [Git Productivity and Competition](./productivityCompetition.md)
 * [Git Researh Sources](./researchSources.md)
