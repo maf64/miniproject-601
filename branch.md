@@ -1,1 +1,1 @@
-A **branch** is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches.
+As defined by [The New Stack](https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/), a **branch** is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches.
