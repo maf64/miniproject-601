@@ -1,5 +1,6 @@
 # miniproject-601
 * [Git Members](./members.md)
+* [Git Change Log](./changelog.md)
 * [GitFlow Chart](./gitFlowExplanation.md)
 * [Git Repository](./repo.md)
 * [Git Clone](./clone.md)
