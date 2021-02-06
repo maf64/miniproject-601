@@ -1,1 +1,3 @@
-**Git** **commit** creates a *commit*, which is like a snapshot of your repository. These commits are snapshots of your entire repository at specific times. **Commits** include lots of metadata in addition to the contents and message, like the author, timestamp, and more.
+**Git commit** creates a *commit*, which is like a snapshot of your repository. These commits are snapshots of your entire repository at specific times. **Commits** include lots of metadata in addition to the contents and message, like the author, timestamp, and more. These *commits* are sent to the central repository as updates. As part of our mini-project assignment, we have distinguished commits between *features,* in which we deliver a definition or explanation, and *fixes* in which we update a previously existing feature.
+
+Definition retrieved from [GitHub](https://github.com/git-guides/git-commit)
