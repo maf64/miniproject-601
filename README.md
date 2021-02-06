@@ -15,4 +15,3 @@
 * [Git Master Branch](./master.md)
 * [Git Research Sources](./researchSources.md)
 * [Git Productivity and Competition](./productivityCompetition.md)
-* [Git Researh Sources](./researchSources.md)
