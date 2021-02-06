@@ -1,2 +1,3 @@
-Marcos Fermin
-Sean Orso
+## Members
+
+Marcos Fermin and Sean Orso
